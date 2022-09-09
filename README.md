@@ -6,4 +6,4 @@
 
 ##  ‍‍`RFC` لیست ار.اف.سی های ترجمه شده
 
-- [`DHCP` ار.اف.سی ](./http_rfc_Persian/Abstract.md#معرفی)
+- [`DHCP` ار.اف.سی ](./RFC-2131 (DHCP).pdf)
